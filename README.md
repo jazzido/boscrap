@@ -5,7 +5,7 @@ Scraper de la segunda sección del [Boletín Oficial de la República Argentina]
 
 Emite resultados en formato CSV.
 
-
+Para más información ver post en mi blog: [Boletín Oficial: el log del estado](http://blog.jazzido.com/2014/06/04/boletin-oficial-el-log-del-estado/).
 
 
 ## Ejemplo
