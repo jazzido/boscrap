@@ -4,8 +4,6 @@ import re
 from datetime import datetime, timedelta
 import urlparse
 import json
-from operator import is_not
-from functools import partial
 from multiprocessing import Pool
 from contextlib import contextmanager
 
